@@ -1,2 +1,2 @@
-# flutter-android
-First Flutter Android app for learning.
+# android-app
+First Android app for learning.
